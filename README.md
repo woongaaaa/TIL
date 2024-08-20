@@ -8,7 +8,6 @@
 ## Category
 ### Web
 - [[24.08.05 - 24.08.11] TIL - HTML 알아보기](https://velog.io/@woongaaaa/HTML-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
-- [[24.08.12 - 24.08.18] TIL - CSS 알아보기 - 1](https://velog.io/@woongaaaa/CSS-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1)
+- [[24.08.12 - 24.08.20] TIL - CSS 알아보기](https://velog.io/@woongaaaa/CSS-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ### iOS
-- [[24.08.07] TIL - UISheetPresentationViewController 알아보기](https://velog.io/@woongaaaa/UISheetPresentationViewController-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
