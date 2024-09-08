@@ -9,6 +9,6 @@
 ### Web
 - [[24.08.05 - 24.08.11] TIL - HTML 알아보기](https://velog.io/@woongaaaa/HTML-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [[24.08.12 - 24.08.20] TIL - CSS 알아보기](https://velog.io/@woongaaaa/CSS-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
-- [[24.08.20 - 24.08.28] TIL - Flexbox 알아보기](https://velog.io/@woongaaaa/Flexbox-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [[24.08.20 - 24.09.08] TIL - Flexbox와 Media Query 알아보기](https://velog.io/@woongaaaa/Flexbox%EC%99%80-Media-Query-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ### iOS
